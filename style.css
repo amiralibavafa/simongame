@@ -1,0 +1,46 @@
+body{
+    margin-top: 5vh;
+    background-color: #00224D;
+    color: #F7EEDD;
+    font-family: 'Press Start 2P';
+    text-align: center;
+    font-size: 24px;
+}
+
+.gamePage{
+    height: 75vh;
+    align-content: center;
+}
+.row{
+    display: flex;
+    justify-content: center;
+}
+
+button{
+    margin: 20px;
+    height: 200px;
+    width: 200px;
+    border-radius: 20%;
+    border-width: 5px;
+    border-color: #F7EEDD;
+}
+
+.red{
+    background-color: #A0153E;
+}
+
+.blue{
+    background-color: #008DDA;
+}
+
+.yellow{
+    background-color: #FFC700;
+}
+
+.green{
+    background-color: #007F73;
+}
+
+.orderAnimation{
+    opacity: 0.5;
+}
