@@ -40,10 +40,7 @@ Simon Game is a memory game where the player has to follow a sequence of colors 
 
 ## Example Usage
 
-1. **Open `index.html`** in your browser.
-2. **Observe the Sequence**: The game will show a sequence of flashing colors.
-3. **Repeat the Sequence**: Click the color buttons in the same order as they appeared.
-4. **Advance Levels**: Correctly replicating the sequence will progress to the next level.
+Open the link https://amiralibavafa.github.io/simongame/ in your browser.
 
 ## Contributing
 
